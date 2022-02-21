@@ -2,7 +2,8 @@
 ## Segulmælir fyrir hellaleit
 
 ### Keyrsla
-Þegar app.py er keyrt sækir það magnetorui.ui og renderar GUI
+Þegar app.py er keyrt sækir það magnetorui.ui og renderar GUI.
+
 GUI er gert í PyQT5 Designer
 ### ToDo:
 * Búa til plottið í app.py
