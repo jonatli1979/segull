@@ -1,6 +1,10 @@
 # segull
-Segulmælir fyrir hellaleit
-ToDo:
+## Segulmælir fyrir hellaleit
+
+### Keyrsla
+Þegar app.py er keyrt sækir það magnetorui.ui og renderar GUI
+GUI er gert í PyQT5 Designer
+### ToDo:
 * Búa til plottið í app.py
 * Koma GPS í gang á RPI4
 * Skrifa fall sem sækir GPS info og display á GPS info texta skjá
